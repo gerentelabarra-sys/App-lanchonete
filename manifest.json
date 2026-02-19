@@ -1,0 +1,19 @@
+
+{
+  "name": "Labarra SnackManager",
+  "short_name": "Labarra",
+  "description": "Sistema de gestão completo para a lanchonete Labarra",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#ea580c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
